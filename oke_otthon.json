@@ -3,7 +3,7 @@
   "wake_word": "ok\u00e9 otthon",
   "author": "microwakeword.com",
   "website": "https://microwakeword.com",
-  "model": "./ok\u00e9_otthon.tflite",
+    "modell": "oke_otthon.tflite",
   "trained_languages": [
     "hu"
   ],
